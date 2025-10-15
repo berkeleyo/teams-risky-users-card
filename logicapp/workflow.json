@@ -1,1 +1,9 @@
-{"definition": {}}
+
+{
+  "definition": {
+    "metadata": { "name": "teams-risky-users-card" },
+    "triggers": { "manual": { "type": "Request", "kind": "Http", "inputs": { "schema": {} } } },
+    "actions": {},
+    "outputs": {}
+  }
+}
