@@ -1,0 +1,9 @@
+{
+  "description": "Logic App: post a single Adaptive Card to Teams summarizing risky users/sign-ins (capped items).",
+  "topics": [
+    "logic-apps",
+    "teams",
+    "security"
+  ],
+  "created": "2025-10-15"
+}
